@@ -15,7 +15,7 @@
 I'm a **first-year Computer Engineering student** at Toronto Metropolitan University with a love for **low-level systems, Linux, and self-hosting**. I've been running Linux daily for 8+ years and manage my own home server stack using Docker, Portainer, and Cloudflare. I particularly love bodybuilding, reading, and the culinary arts.
 
 🔭 I’m currently working on: expanding my home server setup & a general-purpose ODE solver.  
-🌱 I’m learning: Rust, advanced networking, and container orchestration.
+🌱 I’m learning: Rust, advanced networking, and container orchestration.  
 🎯 2026 goals: land a technical internship, contribute to open source, and ship a project used by >100 people.
 
 ---
