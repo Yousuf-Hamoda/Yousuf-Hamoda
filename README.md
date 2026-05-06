@@ -50,7 +50,7 @@ I'm a **first-year Computer Engineering student** at Toronto Metropolitan Univer
 *Python · Linear Algebra · NumPy-free*  
 > Solves systems of ODEs using pure linear algebra – no external math libraries. Implements matrix exponentiation and Runge-Kutta methods.
 
-[🔗 Repo](https://github.com/YousufHamoda/ODE-Solver) *(In Development)*
+[🔗 Repo](https://github.com/Yousuf-Hamoda/ODE-Solver) *(In Development)*
 
 ---
 
