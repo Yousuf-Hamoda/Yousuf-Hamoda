@@ -33,17 +33,24 @@ I'm a **first-year Computer Engineering student** at Toronto Metropolitan Univer
 
 ### 📌 Featured Projects
 
+#### 🤖 Partner Outreach Agent
+*Python · OpenAI · SMTP · Linux*  
+> AI-powered outreach agent that reads a CSV of potential partners and drafts personalized emails using GPT-4o.
+
+[🔗 Repo](https://github.com/Yousuf-Hamoda/Partner-Outreach-Agent)
+
+
 #### 🖥️ Home Lab Server
 *Docker · Portainer · Cloudflare · Linux*  
 > Built and operate a full home server handling media streaming, document sync, personal websites, and work utilities. Configured reverse proxy, Cloudflare tunnels, and container networking from scratch.
 
-[🔗 Repo](https://github.com/Yousuf-Hamoda/homelab)
+[🔗 Repo](https://github.com/Yousuf-Hamoda/Homelab)
 
 #### 📉 Differential Equation Solver
 *Python · Linear Algebra · NumPy-free*  
 > Solves systems of ODEs using pure linear algebra – no external math libraries. Implements matrix exponentiation and Runge-Kutta methods.
 
-[🔗 Repo](https://github.com/YousufHamoda/ode-solver) *(In Development)*
+[🔗 Repo](https://github.com/YousufHamoda/ODE-Solver) *(In Development)*
 
 ---
 
