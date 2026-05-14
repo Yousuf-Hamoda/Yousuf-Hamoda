@@ -61,10 +61,10 @@ I'm a **Computer Engineering student** at the University of Waterloo (transferre
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-crof41a14-sofa44-s-projects.vercel.app/api?username=Yousuf-Hamoda&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-iota-bice-96.vercel.app/api?username=Yousuf-Hamoda&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Yousuf-Hamoda&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-crof41a14-sofa44-s-projects.vercel.app/api/top-langs/?username=Yousuf-Hamoda&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats-iota-bice-96.vercel.app/api/top-langs/?username=Yousuf-Hamoda&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="40%" />
 </p>
