@@ -35,12 +35,12 @@ I'm a **Computer Engineering student** at the University of Waterloo (transferre
 
 ### 📌 Featured Projects
 
-#### ⚙️ Linear ODE Solver
+#### ⚙️ Linear ODE Solver ✅ *Deployed*
 *Python · Flask · React · TypeScript · Docker · GitHub Actions · Nginx*
 
 > Full-stack web application that solves systems of linear ODEs using pure Python — no NumPy or SciPy. Implements Newton interpolation, Gaussian elimination, and Durand-Kerner root finding under the hood. Features a React + TypeScript frontend, Flask REST API, and a CI/CD pipeline that auto-builds and deploys Docker images on every push.
 
-[🔗 Repo](https://github.com/Yousuf-Hamoda/ODE-Solver) ✅ *Deployed*
+[🔗 Repo](https://github.com/Yousuf-Hamoda/ODE-Solver)
 
 #### 🤖 AI Partner Outreach Agent
 *Python · OpenAI API · LangChain · Prompt Engineering*
@@ -61,10 +61,10 @@ I'm a **Computer Engineering student** at the University of Waterloo (transferre
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hamoda&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-crof41a14-sofa44-s-projects.vercel.app/api?username=Yousuf-Hamoda&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Yousuf-Hamoda&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hamoda&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats-crof41a14-sofa44-s-projects.vercel.app/api/top-langs/?username=Yousuf-Hamoda&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="40%" />
 </p>
