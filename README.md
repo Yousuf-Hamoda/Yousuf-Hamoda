@@ -42,12 +42,11 @@ I'm a **Computer Engineering student** at the University of Waterloo (transferre
 
 [🔗 Repo](https://github.com/Yousuf-Hamoda/ODE-Solver)
 
-#### 🤖 AI Partner Outreach Agent
-*Python · OpenAI API · LangChain · Prompt Engineering*
-
-> Agentic pipeline that ingests structured data, orchestrates multi-step LLM workflows via LangChain (tool-calling, decision branching), and generates personalized outreach at scale using GPT-4o. Abstracted behind an OpenAI-compatible interface for portability across AI providers.
-
-[🔗 Repo](https://github.com/Yousuf-Hamoda/Partner-Outreach-Agent)
+#### 🌅 Sun Clock
+*Arduino · C/C++ · DS1307 RTC · IR · KiCad · Soldering*
+> An alarm clock I designed and built from scratch that wakes you with light instead of sound. An Arduino reads a real-time clock and, at the set time, fires an infrared transmitter that replays the lamp remote's own signal to switch a bedside lamp on wirelessly — nothing is wired to the lamp itself. Hand-soldered with a USB-C power port, later formalized as ERC-verified KiCad schematics with capture-and-transmit firmware.
+ 
+[🔗 Repo](https://github.com/Yousuf-Hamoda/Sun-Clock)
 
 #### 🖥️ Home Lab Server
 *Docker · Portainer · Cloudflare · Linux · Nginx*
@@ -55,6 +54,13 @@ I'm a **Computer Engineering student** at the University of Waterloo (transferre
 > Built and operate a self-hosted production platform running 8 containerized services with zero downtime across 2+ years — media streaming, document sync, analytics, and web hosting. Runs a full local LLM inference stack (text, vision, TTS, image gen, transcription) exposed via an OpenAI-compatible REST API. Reverse proxy routing and DNS configured from scratch with Nginx and Cloudflare.
 
 [🔗 Repo](https://github.com/Yousuf-Hamoda/Homelab)
+
+#### 🤖 AI Partner Outreach Agent
+*Python · OpenAI API · LangChain · Prompt Engineering*
+
+> Agentic pipeline that ingests structured data, orchestrates multi-step LLM workflows via LangChain (tool-calling, decision branching), and generates personalized outreach at scale using GPT-4o. Abstracted behind an OpenAI-compatible interface for portability across AI providers.
+
+[🔗 Repo](https://github.com/Yousuf-Hamoda/Partner-Outreach-Agent)
 
 ---
 
